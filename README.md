@@ -8,9 +8,9 @@ The content is delivered via nuget packages:
 
 ---
 
-## [Web Wallet](https://github.com/RemarkableTools/Mx.NET.SDK.WalletProviders/blob/main/src/Mx.NET.SDK.WalletConnect/README.md) usage
+## [Web Wallet](https://github.com/RemarkableTools/Mx.NET.SDK.WalletProviders/blob/main/src/Mx.NET.SDK.WebWallet/README.md) usage
 * Web Wallet basic usage
 
-## [Wallet Connect](https://github.com/RemarkableTools/Mx.NET.SDK.WalletProviders/blob/main/src/Mx.NET.SDK.WebWallet/README.md) usage
+## [Wallet Connect](https://github.com/RemarkableTools/Mx.NET.SDK.WalletProviders/blob/main/src/Mx.NET.SDK.WalletConnect/README.md) usage
 * Wallet Connect basic usage
 * Windows application example
